@@ -1,0 +1,22 @@
+.inp-Search
+{
+    height: 48px;
+    width: 385px;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid #F3F3F3;
+    background: #FFF;
+}
+.filter-item
+{
+    width: 385px;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background-color: #FFF;
+    border-bottom: 1px solid #eeeeee;
+}
+.filter-item:nth-last-child(1)
+{
+    border-bottom: none;
+}

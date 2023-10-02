@@ -1,0 +1,7 @@
+.userInfo
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 104px;
+    margin-top: 32px;
+}
